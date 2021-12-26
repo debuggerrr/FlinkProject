@@ -23,3 +23,4 @@ object FlinkSample {
     env.execute("Window Stream WordCount")
   }
 }
+//use nc -l 9999 on terminal to start socket and then you can enter the dataset as needed.
